@@ -1,7 +1,6 @@
-<a width="50" height="50" href="https://imgbb.com/"><img src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a>
 # ShakeYourLove
 
-
+<a  href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a>
 
 ### Markdown
 
