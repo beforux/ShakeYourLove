@@ -1,5 +1,4 @@
-![Image](https://ibb.co/JrYjwyB)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a>
+<a width="50" height="50" href="https://imgbb.com/"><img src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a>
 # ShakeYourLove
 
 
