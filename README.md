@@ -1,6 +1,6 @@
 <center><a href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a></center>
 
-<center> <h1>SHAKE YOUR DEVICE.</h1> 
+<center> <div class="big">SHAKE YOUR DEVICE.</div> 
   <h1>SHOW YOUR LOVE.</h1 > </center>
 <center><p>An app to show random letter/form when you shake your device.</p></center>
 <center>
@@ -11,5 +11,5 @@
 </center>
 
 
-<footer>Copyright@ Lu Jin  / beforux@gmail.com </footer>
+<footer><p> Copyright@ Lu Jin | beforux@gmail.com </p></footer>
 
