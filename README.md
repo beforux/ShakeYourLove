@@ -1,7 +1,7 @@
 <center><a href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a></center>
 
-<center> <div class="big">SHAKE YOUR DEVICE.</div> 
-  <div class="big">SHOW YOUR LOVE.</div > </center>
+<center> <h1>SHAKE YOUR DEVICE.</h1> 
+  <h1>SHOW YOUR LOVE.</h1 > </center>
 <center><p class="small">An app shows random letter/form when you shake your device.</p></center>
   
 <center>
