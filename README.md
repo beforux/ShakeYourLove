@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a>
+<center><a href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a></center>
 
 # Shake your device to show your love.
 <p font-size="9px">An app to show randomly when shaking your device.</p>
@@ -12,7 +12,7 @@
 
 
 
-Copyright: Lu
-Connect Me: beforux@gmail.com 
+<p> Copyright: Lu </p>
+<p> Email: beforux@gmail.com </p>
 
 
