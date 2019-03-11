@@ -11,7 +11,5 @@
 
 
 
-<footer>
-<p>Copyright @ Lu Jin  / beforux@gmail.com </p>
-</footer>
+<footer> <p>Copyright @ Lu Jin  / beforux@gmail.com </p> </footer>
 
