@@ -13,6 +13,6 @@
 
 
 <footer>
- <p class="small">Copyright@Lu | beforux@gmail.com |<a href="https://beforux.github.io/ShakeYourLove/privatepolicy">Privacy Policy</a></p>
+ <p class="small">Copyright@Lu  beforux@gmail.com <a href="https://beforux.github.io/ShakeYourLove/privatepolicy">Privacy Policy</a></p>
 </footer>
 
