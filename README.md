@@ -13,8 +13,8 @@
 
 
 <footer>
- <p class="small">Copyright@Lu</p>
- <p class="small">beforux@gmail.com</p>
+ <p class="small">Copyright@Lu |</p>
+ <p class="small">beforux@gmail.com |</p>
  <p class="small"><a href="https://beforux.github.io/ShakeYourLove/privatepolicy">Privacy Policy</a></p>
 </footer>
 
