@@ -12,5 +12,5 @@
 </center>
 
 
-<footer><p> Copyright@Lu / beforux@gmail.com </p></footer>
+<footer><p> Copyright@Lu / beforux@gmail.com / <a link="">Privacy Policy</a></p></footer>
 
