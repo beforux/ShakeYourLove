@@ -1,6 +1,6 @@
 <center><a href="https://imgbb.com/"><img width="120" height="120" src="https://i.ibb.co/3Sxm9Mr/i-Tunes-Artwork-1x.png" alt="i-Tunes-Artwork-1x" border="0"></a></center>
 
-<center><p>Shake your device to show your love.<p>
+<center><h1>Shake your device to show your love.</h1>
 <center><p>An app to show randomly when shaking your device.</p></center>
 
 <a href="https://ibb.co/WKvkYW8"><img width="100" src="https://i.ibb.co/vz43Kxy/L.png" alt="L" border="0"></a>
@@ -12,7 +12,6 @@
 
 
 
-<p> Copyright: Lu </p>
-<p> Email: beforux@gmail.com </p>
+<p>Copyright: Lu | Email: beforux@gmail.com </p>
 
 
