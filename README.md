@@ -3,7 +3,7 @@
 
 <center><h1>SHAKE YOUR DEVICE.</h1> 
   <h1>SHOW YOUR LOVE.</h1 > </center>
-<center><p class="small">An app shows random letter or form when you shake your device.</p></center>
+<center><p class="small">An app shows random letter/form when you shake your device.</p></center>
   
 <center>
 <a href="https://ibb.co/WKvkYW8"><img width="100" src="https://i.ibb.co/vz43Kxy/L.png" alt="L" border="0"></a>
