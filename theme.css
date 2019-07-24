@@ -306,6 +306,9 @@ ul{
   padding-top: 25px;
 }
 
+li{
+font-size:14px;}
+
 ul li{
   float: right;
   margin-right: 10px;
