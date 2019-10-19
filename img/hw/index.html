@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 	<title>Computer Vision: Object Segmentation </title>
-	<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
-	<script type="text/javascript" src="https://s3.amazonaws.com/mturk-public/externalHIT_v1.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -13,6 +10,8 @@
 	<header>
 		<p class="smallFont center line">Computer Vision: Object Segmentation</p>
 	</header>
+
+
 
 	<div class="row">
 		<div class="col-sm-4">
@@ -43,32 +42,28 @@
 
 		</div>
 
-		<form class="center" name="mturk_form" method="post" id="mturk_form" action="https://workersandbox.mturk.com/mturk/externalSubmit">
-
-			<input type="hidden" value=""  name="assignmentId" id="assignmentId">
-
-		<div class="col-sm-12">
+		<div class="col-sm-8">
 			<p class="bigFont center">Task: 1/5</p>
-			 <p class="center keywords">Please outline "car" in the image.</p>
+			 <p class="bigFont center keywords">Please outline car in the image.</p>
 		     <form name="fc">			
                <p class="center">
-                <canvas id="carImage" width="300%" height="300%"></canvas>
+                <canvas id="carImage" width="400" height="400"></canvas>
 	           </p>   
-	           <p class="center"><input type="submit" id="submitButton" value="Submit"  onclick="foo();"></p>
   
-			   <!-- <p class="center"><button id="submit_button" type="submit" onclick="foo();" name="submitButton" value="User Submits HIT" class="smallFont">Submit</button></p> -->
+
+			   <p class="center"><button id="submit_button" type="submit" onclick="foo();" name="submitButton" value="User Submits HIT" class="smallFont">Submit</button></p>
              </form>
             </table>
 			
 		</div>
 
-		  </form>  
+		    
  
 		
 	</div>
 
     <script src="js/mark.js"></script>
-    <script type="AMT.js"></script>
+    <script src="js/AMT.js"></script>
 
 </body>
 </html>
