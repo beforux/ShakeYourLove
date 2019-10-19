@@ -9,6 +9,11 @@ imageObj.onload = function(){
 	renderGraphics();	
 }
 
+imageObj.src = "http://beforapps.com/img/cars/1.jpeg"
+var imagePath = imageObj.src;
+document.getElementById('carImage').src = imagePath;
+turkSetAssignmentID();
+
 // var urls = [
 // 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLWFkDXvnuoLoMcroxmfpKdlnkA1m81FfcmGnzrgTPqDfnlcUWA",
 // 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtElevgGUDMyG2AIxxbLa3U9askmXEJ3Bk30RjxofAuopJuEqrEg",
