@@ -48,8 +48,9 @@
                   <form name="mturk_form" method="post" id="mturk_form" action="https://workersandbox.mturk.com/mturk/externalSubmit">
                   <input type="hidden" value="" name="assignmentId" id="assignmentId">
                   <p class="center">
-                   <canvas id="carImage" width="400" height="400"></canvas>
+                   <canvas  id="carImage" width="400" height="400"></canvas>
 	           </p>   
+	           <input type="hidden" name="coordinates" id="coordinates">
   
 
 			   <p class="center"><button id="submit_button" type="submit" onclick="foo();" name="submitButton" value="User Submits HIT" class="smallFont">Submit</button></p>
@@ -64,7 +65,6 @@
 	</div>
 
     <script src="js/mark.js"></script>
-<!--     <script src="js/AMT.js"></script>
- -->
+
 </body>
 </html>
