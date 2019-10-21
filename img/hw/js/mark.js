@@ -28,7 +28,7 @@ imageObj.onload = function(){
 
 var imagePath = turkGetParam('image');
 imageObj.src = imagePath;
-// turkSetAssignmentID();
+turkSetAssignmentID();
 
 function foo()
 {
