@@ -35,15 +35,16 @@ function foo()
 	if (mouseClickPositions.length > 0 ) {
 		alert("Submit Successful!");
 		// i++;
- 	// 	imageObj.src = urls[i];
- 		
+ 	    // imageObj.src = urls[i];		
 	}
+
 	else {
 		alert("You should mark the image before submition!");
 	}	
 
 	context.clearRect(0,0, canvas.width,canvas.height);
-	 
+	document.getElementById("coordinates").value = JSON.stringify{coordinates};
+
 
 }
 
@@ -85,6 +86,8 @@ function renderGraphics(){
 
 
 		}
+
+
 
 
 
