@@ -43,7 +43,7 @@ function foo()
 	}	
 
 context.clearRect(0,0, canvas.width,canvas.height);
-// 	document.getElementById("coordinates").value = JSON.stringify{coordinates};
+document.getElementById("coordinates").value = JSON.stringify{coordinates};
 
 
 }
