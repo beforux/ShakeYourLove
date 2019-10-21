@@ -9,34 +9,41 @@ imageObj.onload = function(){
 	renderGraphics();	
 }
 
-imageObj.src = "http://beforapps.com/img/cars/1.jpeg"
-var imagePath = imageObj.src;
-document.getElementById('carImage').src = imagePath;
-turkSetAssignmentID();
 
 // var urls = [
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLWFkDXvnuoLoMcroxmfpKdlnkA1m81FfcmGnzrgTPqDfnlcUWA",
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtElevgGUDMyG2AIxxbLa3U9askmXEJ3Bk30RjxofAuopJuEqrEg",
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MeuXZs5eFiPmHclqtKqvlN4omZjBtAdYu7e6f7Hz9o9neT2d9w",
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFosgS-I6KR5UCk4Xg1AyIieqB5Dc9b0PWbbaS9u-QYwngUrHN",
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3np7uKCVNk9u_f2v9LzQfxPp6ml7J4RtxKrPTGAMERiRjVh5X5A",
-// 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9sbjeDr1rq8EFCMPztywOknuKuSiNx3mAhxyYamd6I7DLFLjNQ"
+// 	"http://beforapps.com/img/cars/1.jpeg",
+// 	"http://beforapps.com/img/cars/2.jpeg",
+// 	"http://beforapps.com/img/cars/3.jpeg",
+// 	"http://beforapps.com/img/cars/4.jpeg",
+// 	"http://beforapps.com/img/cars/5.jpeg"
 // ]
-// for (var i = 0; i < urls.length; i++) {
-//        imageObj.src = urls[i];
+// // for (var i = 0; i < urls.length; i++) {
+// //        imageObj.src = urls[i];
  
-// }
+// //  }
+
+// var i=0;
+
+// imageObj.src = urls[i];
+
+var imagePath = turkGetParam('image');
+imageObj.src = imagePath;
+// turkSetAssignmentID();
 
 function foo()
 {
 	if (mouseClickPositions.length > 0 ) {
 		alert("Submit Successful!");
- 		imageObj.src = urls[i+1];
+		// i++;
+ 	// 	imageObj.src = urls[i];
  		
 	}
 	else {
 		alert("You should mark the image before submition!");
-	}		 
+	}	
+
+	context.clearRect(0,0, canvas.width,canvas.height);
+	 
 
 }
 
