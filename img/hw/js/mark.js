@@ -42,8 +42,8 @@ function foo()
 		alert("You should mark the image before submition!");
 	}	
 
-// 	context.clearRect(0,0, canvas.width,canvas.height);
-// 	document.getElementById("coordinates").value = JSON.stringify{coordinates};
+	context.clearRect(0,0, canvas.width,canvas.height);
+	document.getElementById("coordinates").value = JSON.stringify{coordinates};
 
 
 }
