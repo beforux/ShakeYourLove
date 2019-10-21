@@ -21,20 +21,21 @@
 			<ol class="smallFont center">
 				<li>Catch the car in an image.</li>
 				<li>Use the mark to outline the car.</li>
+				<li>You can delete previous dot by pressing any key, for example, "A".</li>
 				<li>When you finish, submit the image.</li>
 				<li>Another image of task will appear automatically.</li>
 			</ol>
 
 			<table class="center">
 				<tr class="smallFont">
-					<td class="good"> Good Example: <br> A picture with trees</td>
-					<td><img src="http://beforapps.com/img/photo/1.JPG" width="100px"></td>
+					<td class="good"> Good Example: <br> Catch all of the outline of a car</td>
+					<td><img src="http://beforapps.com/img/photo/cars/e1.png" width="100px"></td>
 
 			    </tr>
 			    <tr class="smallFont">
-					<td class="bad"> Bad Example: <br> A picture without trees</td>
+					<td class="bad"> Bad Example: <br> Just catch a part of the outline of a car </td>
 					
-					<td><img src="http://beforapps.com/img/photo/5.JPG" width="100px"></td>
+					<td><img src="http://beforapps.com/img/photo/cars/e2.png" width="100px"></td>
 
 			    </tr>
 								
@@ -43,15 +44,14 @@
 		</div>
 
 		<div class="col-sm-8">
-			<p class="bigFont center">Task: 1/5</p>
 			 <p class="bigFont center keywords">Please outline car in the image.</p>
                   <form name="mturk_form" method="post" id="mturk_form" action="https://workersandbox.mturk.com/mturk/externalSubmit">
                   <input type="hidden" value="" name="assignmentId" id="assignmentId">
                   <p class="center">
                    <canvas  id="carImage" width="400" height="400"></canvas>
 	           </p>   
-<input type="hidden" name="coordinates" id="coordinates">
-   
+	           <input type="hidden" name="coordinates" id="coordinates">
+  
 
 			   <p class="center"><button id="submit_button" type="submit" onclick="foo();" name="submitButton" value="User Submits HIT" class="smallFont">Submit</button></p>
              </form>
