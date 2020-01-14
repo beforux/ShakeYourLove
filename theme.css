@@ -162,6 +162,7 @@ body {
 .small {
   font-size: var(--small-font-size);
   letter-spacing: 0.05em;
+  line-height:1.5em;
 
 }
 
