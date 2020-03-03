@@ -4,6 +4,55 @@ font-family: 'IBM Plex Serif', serif;
 
 
 }
+.first-page-content{
+	padding-left: 20px;
+	padding-right: 20px;
+    padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #FBFBFB
+;
+	margin-right: 180px;
+	margin-left: 180px;	
+	margin-bottom: 30px;
+	display: flex;
+
+
+}
+
+.first-page-image{
+	width: 300px;
+	padding-left: 40px;
+	padding-right:40px;
+}
+
+.first-page-link{
+	padding-right: 16px;
+}
+
+.first-page-word{
+	line-height: 1.5;
+    margin-bottom:15px;
+
+}
+.first-page-right{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.first-page-link{
+	text-decoration: none;
+    color: #2997ff;
+    font-size: 14px;
+}
+
+
+
+.first-page-title{
+	font-size: 32px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	
+}
 
 html{
 	margin: 0px;
